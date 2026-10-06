@@ -45,8 +45,6 @@
 ### Open source
 
 - [AppSec-Rules-Pack #35](https://github.com/lucashgrifoni/AppSec-Rules-Pack/pull/35) — portable JSON validation-gate example with focused tests, closes #31 *(merged)*
-- [tscircuit/circuit-to-svg #642](https://github.com/tscircuit/circuit-to-svg/pull/642) — keep negative and non-finite lengths out of SVG attributes, fixes #640 *(in review)*
-
 ---
 
 <p align="center"><i>Open to AI/ML engineering roles — reach me through my portfolio.</i></p>
