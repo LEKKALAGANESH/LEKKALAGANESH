@@ -44,7 +44,17 @@
 
 ### Open source
 
-- [AppSec-Rules-Pack #35](https://github.com/lucashgrifoni/AppSec-Rules-Pack/pull/35) — portable JSON validation-gate example with focused tests, closes #31 *(merged)*
+**Merged**
+
+- [Farama Gymnasium #1757](https://github.com/Farama-Foundation/Gymnasium/pull/1757) — Taxi and Blackjack documentation GIFs recorded from a Q-learned policy (#1743)
+- [TypeGPU #3168](https://github.com/software-mansion/TypeGPU/pull/3168) — torus, capped torus and hexagon signed distance functions for `@typegpu/sdf`, with tests (#3063)
+- [AppSec-Rules-Pack #35](https://github.com/lucashgrifoni/AppSec-Rules-Pack/pull/35) — portable JSON validation-gate example with focused tests (#31)
+
+**In review**
+
+- [TypeGPU #3191](https://github.com/software-mansion/TypeGPU/pull/3191) — interactive SDF viewer example showing every `@typegpu/sdf` shape (#3169)
+- [TorchMetrics #3631](https://github.com/Lightning-AI/torchmetrics/pull/3631) — handle Python scalars in `MinMaxMetric` (#3626)
+
 ---
 
 <p align="center"><i>Open to AI/ML engineering roles — reach me through my portfolio.</i></p>
